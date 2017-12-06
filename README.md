@@ -1,1 +1,1 @@
-# Autosuggestion-RNN-LSTM-model-using-Keras-functional-API
+# Autosuggestion-RNN-LSTM-model-using-Keras-API
