@@ -4,3 +4,4 @@
 - Russian poetry example - model loss: 1.75
 - Python 3
 - Code is based on the course fast.ai
+- Regression problem
