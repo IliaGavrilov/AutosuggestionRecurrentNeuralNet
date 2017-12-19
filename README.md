@@ -5,3 +5,4 @@
 - Python 3
 - Code is based on the course fast.ai
 - Regression problem
+- NLP / NLU
