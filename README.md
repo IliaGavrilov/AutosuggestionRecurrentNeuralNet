@@ -1,4 +1,5 @@
 # Autosuggestion Recurrent Neural Network 
+
 - Code is run on CPU;
 - Implemented in Python 3.6;
 - NLP Regression problem;
