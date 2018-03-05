@@ -4,7 +4,7 @@
 - Implemented in Jupyter Notebook (Python 3.6);
 - NLP Regression problem;
 
-- Long Short-Term model; 
+- Long Short-Term Memory model; 
 - Keras API;
 
 - Code is based on the [fast.ai](https://github.com/fastai) MOOC, but implemented on own examples:
